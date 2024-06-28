@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bathTxt" type="id" />
+    <item name="bedTxt" type="id" />
+    <item name="discriptionTxt" type="id">String</item>
+    <item name="wifiTxt" type="id">String</item>
+</resources>
